@@ -9,6 +9,18 @@ body {
     flex-direction: column;
 }
 
+.site-header {
+    padding: 24px 16px;
+    background-color: #6f42c1;
+    color: #ffffff;
+    text-align: center;
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: 1.75rem;
+}
+
 .image-grid {
     width: min(80vw, 460px);
     display: grid;
